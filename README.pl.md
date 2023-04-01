@@ -83,7 +83,7 @@ oknie przejść do odnośnika `Details`.
 Po jakimś czasie, zazwyczaj kilku minut, działającą stronę będzie można zobaczyć
 pod adresem wskazanym w wyedytowanej właściwości `homepage`. Na przykład tu
 znajduje się odnośnik do działającej strony dla tego repozytorium
-[https://goitacademy.github.io/parcel-project-template](https://goitacademy.github.io/parcel-project-template).
+[https://rolidabrowski.github.io/goit-js-hw-08](https://rolidabrowski.github.io/goit-js-hw-08).
 
 Jeżeli otwiera się pusta strona, upewnij się, że w zakładce `Console` nie ma
 błędów związanych z nieprawidłowymi ścieżkami do plików projektu CSS i JS
